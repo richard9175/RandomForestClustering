@@ -4,7 +4,7 @@
 # Authors: Timo Erkkilä <timo.erkkila@gmail.com>
 #          Antti Lehmussola <antti.lehmussola@gmail.com>
 # License: BSD 3 clause
-
+#####
 import numpy as np
 import warnings
 
